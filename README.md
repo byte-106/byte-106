@@ -1,6 +1,6 @@
 # Hi there, I'm yassin! 
 
-![Banner Image](Group 19.png)
+![Banner Image](ban.png)
 
 ## About Me 
 

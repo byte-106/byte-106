@@ -28,7 +28,7 @@ I'm a passionate **student and hobbyist developer** with experience in **website
 
 ### [PC11](project_1_link)
 
-![PC11](Screenshot From 2026-07-01 23-16-46.png)
+![PC11](scr.png)
 
 **[PC11]** is a **a tiny experimental OS** built with **C**. This project demonstrates my ability to **low level programing**. You can check out the repository [here](https://github.com/proggramer12/PC11).
 

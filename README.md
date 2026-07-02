@@ -30,7 +30,7 @@ I'm a passionate **student and hobbyist developer** with experience in **website
 
 ![PC11](scr.png)
 
-**[PC11]** is a **a tiny experimental OS** built with **C**. This project demonstrates my ability to **low level programing**. You can check out the repository [here](https://github.com/proggramer12/PC11).
+**PC11** is a **a tiny experimental OS** built with **C**. This project demonstrates my ability to **low level programing**. You can check out the repository [here](https://github.com/proggramer12/PC11).
 
 ### [Project 2 Title](project_2_link)
 
